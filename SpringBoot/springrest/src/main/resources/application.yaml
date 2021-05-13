@@ -1,0 +1,3 @@
+customer-mapping: '{"customerkeys":[{"client-id":"PgPDIhAPBGxC0BZXAvBVkSkk7nCKoQRd","user-id":"API-NAP","profile-id":{"MAEI":6401014,"MAEU":6344264,"MCPU":6344364,"SAFM":6344314,"SEAU":6344464,"SEJJ":6344414},"scopes":{"DELETE":"nap.operator","GET":"nap.read","PATCH":"nap.readwrite","POST":"nap.readwrite","PUT":"nap.readwrite"}},{"client-id":"eaJ3EfHZ0ePUV7iTEGn9oSNzlmTeU30K","user-id":"API-GCSS","profile-id":{"MAEI":6401014,"MAEU":6344264,"MCPU":6344364,"SAFM":6344314,"SEAU":6344464,"SEJJ":6344414},"scopes":{"DELETE":"cc.gcss.all.operator","GET":"cc.gcss.all.read","PATCH":"cc.gcss.all.readwrite","POST":"cc.gcss.all.readwrite","PUT":"cc.gcss.all.readwrite"}}]}'
+
+
